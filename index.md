@@ -59,7 +59,7 @@
                                 src="images/apklis-boton.png" alt=""></a>
                         <a href="#" class="btn2 wow zoomIn" data-wow-duration=".3s" data-wow-delay=".6s"><img
                                 src="images/google-boton.png" alt=""></a>
-                        <a href="" class="btn3 wow zoomIn" data-wow-duration=".3s" data-wow-delay=".8s"><img
+                        <a href="#" class="btn3 wow zoomIn" data-wow-duration=".3s" data-wow-delay=".8s"><img
                                 src="images/apple-boton.png" alt=""></a>
                     </div>
                     <div class="ilustracion hidden-sm-down col-md-2">
