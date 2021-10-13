@@ -55,7 +55,7 @@
             <div class="container">
                 <div class="row">
                     <div class="botones col-md-4">
-                        <a href="https://mega.nz/file/vgAjzI5J#b-lyZuqgJETPh7NhBtiXDqC8LC2GSLLI_2YFqcbUPoU" class="btn1 wow zoomIn" data-wow-duration=".3s" data-wow-delay=".4s"><img
+                        <a href="https://mega.nz/file/60oBjSQK#TZ6l4mwb6jHZBbI1pclpAddzPiGVYY85WY-ydkRUuiY" class="btn1 wow zoomIn" data-wow-duration=".3s" data-wow-delay=".4s"><img
                                 src="images/mega-boton.png" alt=""></a>
                         
                     </div>
